@@ -1,0 +1,3 @@
+# pull-req作成時に自動でアサインして欲しいユーザ/チームを記述する
+# see: https://help.github.com/en/articles/about-code-owners
+* @Topolly/server-engineer
